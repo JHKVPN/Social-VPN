@@ -3,27 +3,27 @@
 
 
 {
-         "name": "SG-001",
+         "name": "SG-VIP-001",
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-001.ovpn"
       },
 
 {
-         "name": "SG-002",
+         "name": "SG-VIP-002",
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-002.ovpn"
       },
 
 {
-         "name": "SG-003",
+         "name": "SG-VIP-003",
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-003.ovpn"
       },
 
 {
-         "name": "SG-004",
+         "name": "SG-VIP-004",
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-004.ovpn"
       },
 
 {
-         "name": "SG-005",
+         "name": "SG-VIP-005",
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-005.ovpn"
       },
 
@@ -155,9 +155,9 @@
 
 
    ],
-"message":"5 March 2023\n\n•Version:1\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+"message":"5 March 2023\n\n•Version:2\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"🎄New Game VPS🎄" ,
-   "version": 1
+   "version": 2
 }
 
 
